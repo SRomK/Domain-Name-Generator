@@ -1,6 +1,6 @@
 ![4Geeks Logo](https://4geeksacademy.com//images/4geeks-logo.png)
 
-# Proyecto Domain Name Generator
+# Domain Name Generator Project
 
 Owner:
 
