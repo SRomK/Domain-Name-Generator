@@ -1,8 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
+body {
+  background-color: rgb(235, 206, 242);
+}
+
 .alert {
   width: 300px;
   margin: 5px auto;
+  background-color: rgb(222, 162, 246);
 }
 .form-check-input {
   position: relative;
